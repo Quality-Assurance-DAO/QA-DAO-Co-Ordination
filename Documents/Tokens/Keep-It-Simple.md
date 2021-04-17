@@ -4,6 +4,8 @@
 
 <img src="/Documents/Binary/Keep it Simple.gif" align="center" width="1000">
 
+<hr>
+
 # Contributions
 
 There are many types of contribution to NFT-DAO. There are **Audited Contributions**. Contributions that must be reported (e.g., to a funder).There are **Tracked Contributions**. Contributions that NFT-DAO can quantify (e.g., through GitHub).There are **Voted contributions**. Contributions that members vote on.
@@ -11,6 +13,8 @@ There are many types of contribution to NFT-DAO. There are **Audited Contributio
 1. **Audited Contributions**. 
 1. **Tracked Contributions**. 
 1. **Voted contributions**. 
+
+These types of value : Audited, Tracked and Voted Contributions. Are recorded in a **Contributions ledger** in metadata, either on a side chain or in IPFS.
 
 
 
