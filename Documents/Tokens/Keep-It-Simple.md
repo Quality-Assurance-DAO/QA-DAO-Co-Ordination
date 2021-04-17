@@ -38,10 +38,19 @@ The complexity of each Smart Contract rendition of contribution states increases
 
 The simplest smart contract only depends upon data that is volunteered by the DAO (**Audited**) and results in the minting of a simple Token that is Fungible.
 
+**Example** : A simple Art Token (NFT) with arbitrary metadata attached that is only bought or sold.
+
 ### Tracked / Swaps
 
 An intermediate smart contract depends upon data that is tracked by the DAO (**Tracked**) and results in the minting of Token that can be swapped for other tokens (as well as being fungible).
 
+**Example** : A Swaps Token (NFT) with metadata sourced from tracked data (e.g. JSON frameworks) that may be traded with other Swaps Tokens
+
+### Voted / Votes
+
+A complex set of contracts that depends upon a voting system (**Voted**) designed using Game Theory which results in the minting of Token that can be used for participation in governance of a DAO.
+
+**Example** : No LIVE examples.
 
 
 
