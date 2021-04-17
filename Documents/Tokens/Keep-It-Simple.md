@@ -26,7 +26,7 @@ There is One Token. For example : **The NFT-DAO Token**. The NFT-DAO Token is co
 
 # Plutus Smart Contract
 
-The 3 contribution states (Audited, Tracked, Voted are recorded in a **Plutus Smart Contract**. Haskell logic matches JSON Metadata of each Contribution type to an NFT-DAO Token state (Fungible, Swaps, Votes). The NFT-DAO Token is minted in these contextual states.
+The 3 contribution states (Audited, Tracked, Voted) are recorded in a **Plutus Smart Contract**. Haskell logic matches JSON Metadata of each Contribution type to an NFT-DAO Token state (Fungible, Swaps, Votes). The NFT-DAO Token is minted in these contextual states.
 
 # Roadmap / Priorities
 
