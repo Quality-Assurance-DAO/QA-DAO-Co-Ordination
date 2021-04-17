@@ -42,13 +42,13 @@ The simplest smart contract only depends upon data that is volunteered by the DA
 
 ### Intermediate : Tracked / Swaps
 
-An intermediate smart contract depends upon data that is tracked by the DAO (**Tracked**) and results in the minting of Token that can be swapped for other tokens (as well as being fungible).
+An intermediate smart contract depends upon data that is tracked by the DAO (**Tracked**) and results in the minting of a Token that can be swapped for other tokens (as well as being fungible).
 
 **Example** : A Swaps Token (NFT) with metadata sourced from tracked data (e.g. JSON frameworks) that may be traded with other Swaps Tokens
 
 ### Complex : Voted / Votes
 
-A complex set of contracts that depends upon a voting system (**Voted**) designed using Game Theory which results in the minting of Token that can be used for participation in governance of a DAO.
+A complex set of contracts that depends upon a voting system (**Voted**) designed using Game Theory which results in the minting of a Token that can be used for participation in governance of a DAO.
 
 **Example** : No LIVE examples.
 
