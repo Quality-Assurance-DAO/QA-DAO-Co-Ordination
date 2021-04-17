@@ -1,6 +1,4 @@
 # DAO-Open-Source
-DAO-Open-Source
-
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-009900.svg)](CODE_OF_CONDUCT.md) < - [needs fix](https://github.com/Quality-Assurance-DAO/DAO-Open-Source/issues/2)
 
 [![GitHub issues](https://img.shields.io/github/issues/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal?style=flat-square)](https://github.com/Quality-Assurance-DAO/DAO-Open-Source/issues)
