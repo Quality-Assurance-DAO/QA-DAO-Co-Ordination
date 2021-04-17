@@ -16,6 +16,11 @@ There are many types of contribution to NFT-DAO. There are **Audited Contributio
 
 These types of value : Audited, Tracked and Voted Contributions. Are recorded in a **Contributions ledger** in metadata, either on a side chain or in IPFS.
 
+# One Token
 
+There is One Token. For example : **The NFT-DAO Token**. The NFT-DAO Token is convertible to **Fungible** (e.g. burnt), **Swaps**, (e.g. other tokens) and **Votes** (e.g., Governance Rights).
 
+1. **Fungible** (e.g. burnt)
+2. **Swaps**, (e.g. other tokens)
+3. **Votes** (e.g., Governance Rights).
 
