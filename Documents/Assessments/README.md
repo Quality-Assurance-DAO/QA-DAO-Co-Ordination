@@ -2,7 +2,7 @@
 
 1. **Open** - Is your Organisation open-source ?
 1. **Accessible** Can your users issue pull requests or raise issues on your organisation's source code ?
-1. **Transparent** Can your users assess the source of your organisation's documenation ?
+1. **Transparent** Can your users access and propose changes to the source of your organisation's documenation ?
 
 ## Detailed Open Source Assessment
 
