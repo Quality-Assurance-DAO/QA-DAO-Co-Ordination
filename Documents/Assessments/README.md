@@ -1,13 +1,10 @@
-## Open Source Assessments
+## Basic Open Source Assessment
 
-1. Is your Organisation open-source ?
-2. Does your Organisation have an open-source policy ?
-2. Does your Organisation have an open-source road-map ?
-3. Does your Organisation keep track of what is open-source ?
-4. What open-source licenses does your Organisation use ?
-4. Does your Organisation have personal resources that maintains an open-source process ?
+1. **Open ?** - Is your Organisation open-source ?
+1. **Accessible ?** Can your users issue pull requests or raise issues on your organisation's source code ?
+1. **Transparent ?** Can your users assess the source of your organisation's documenation ?
 
-## Open Source DAO Assessments
+## Detailed Open Source Assessment
 
 1. Has your DAO mapped open-source methods to your Distributed Autonoumus Organisation ?
 2. What is your DAO's open-source policy ?
