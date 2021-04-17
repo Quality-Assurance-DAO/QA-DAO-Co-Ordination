@@ -12,5 +12,8 @@
 ## References
 
 **QSOS** : Collaborative technological watch Qualification and Selection of Opensource Software
+> No activity for 3 years
 
 https://www.qsos.org/
+
+https://github.com/drakkr/qsos/
