@@ -6,3 +6,11 @@
 3. Does your Organisation keep track of what is open-source ?
 4. What open-source licenses does your Organisation use ?
 4. Does your Organisation have personal resources that maintains an open-source process ?
+
+
+
+## References
+
+**QSOS** : Collaborative technological watch Qualification and Selection of Opensource Software
+
+https://www.qsos.org/
