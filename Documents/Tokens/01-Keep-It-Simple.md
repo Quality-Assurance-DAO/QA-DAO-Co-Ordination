@@ -66,7 +66,7 @@ The Keep-It-Simple design needs to reference the InterWorkAlliance's [TokenTaxon
 
 ### Token Engineering Canvas & Agent Behaviour Map 
 
-The Keep-It-Simple design needs to reference the [Token Engineering Canvas & Agent Behaviour Map] (https://medium.com/@nembal/token-engineering-canvas-agent-behaviour-map-basics-for-token-engineering-59a413001222). In particular it's [**workbook**] (https://docs.google.com/spreadsheets/d/1cJn_aQj6mF-vC_89-Ah3hLtikp-S579FwrPEAZe8obU/edit#gid=1854744670) mapping of a Token designs objectives.
+The Keep-It-Simple design needs to reference the [Token Engineering Canvas & Agent Behaviour Map] (https://medium.com/@nembal/token-engineering-canvas-agent-behaviour-map-basics-for-token-engineering-59a413001222). In particular it's [**workbook**](https://docs.google.com/spreadsheets/d/1cJn_aQj6mF-vC_89-Ah3hLtikp-S579FwrPEAZe8obU/edit#gid=1854744670) mapping of a Token designs objectives.
 
 
 
