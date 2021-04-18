@@ -14,7 +14,7 @@ Relevant Daedalus Wallet data and a [Cardano Registry entry](https://forum.carda
 
 ## Registry
 
-Following the procedure of the [Cardano Registry](https://github.com/cardano-foundation/cardano-token-registry) the contract will be submitted as GitHub pull request to the contracts registry of NFT-DAO with a copy of the JSON file description of the NFT.
+Following the procedure of the [Cardano Registry](https://github.com/cardano-foundation/cardano-token-registry) GitHUb the contract will be submitted as GitHub pull request to the contracts registry of NFT-DAO with a copy of the JSON file description of the NFT.
 
 ## Review
 
