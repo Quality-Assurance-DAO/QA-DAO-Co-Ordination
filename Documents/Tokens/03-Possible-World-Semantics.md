@@ -25,11 +25,13 @@ the valuation of the necessity that p is true in world w1 is true is defined as 
 
 ## Connectivity and finiteness in modal graph logic - Jul 13, 2019
 David Eppstein
+
 https://11011110.github.io/blog/2019/07/13/connectivity-finiteness-modal.html
 
 
 ## On a Graph Approach to Modal Logics - 2014 
 Paulo A. S. Velosoa,Sheila R. M. Velosob, Mario R. F. Benevidesa
+
 https://core.ac.uk/download/pdf/82455981.pdf
 
 Abstract  : We introduce a sound and complete graph calculus for multi-modal logics.  This formalism internalizes the (Kripke) semantics of modal logics and provides uniform tools for expressing and manipulating modal formulas. We present the graph calculus for logic K and show how to extend it to handle some modalities,like the global and difference modalities, in a natural manner. We also indicate how it can be easily extended to other normal modal logics, such as T, S4, S5, 
