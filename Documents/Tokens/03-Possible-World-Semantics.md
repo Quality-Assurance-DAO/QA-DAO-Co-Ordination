@@ -26,4 +26,4 @@ the valuation of the necessity that p is true in world w1 is true is defined as 
 Paulo A. S. Velosoa,Sheila R. M. Velosob, Mario R. F. Benevidesa
 https://core.ac.uk/download/pdf/82455981.pdf
 
-Abstract  : We introduce a sound and complete graph calculus for multi-modal logics.  This formalism internalizesthe (Kripke) semantics of modal logics and provides uniform tools for expressing and manipulating modalformulas. We present the graph calculus for logic K and show how to extend it to handle some modalities,like the global and difference modalities, in a natural manner. We also indicate how it can be easily extendedto other normal modal logics, such as T, S4, S5, 
+Abstract  : We introduce a sound and complete graph calculus for multi-modal logics.  This formalism internalizes the (Kripke) semantics of modal logics and provides uniform tools for expressing and manipulating modal formulas. We present the graph calculus for logic K and show how to extend it to handle some modalities,like the global and difference modalities, in a natural manner. We also indicate how it can be easily extended to other normal modal logics, such as T, S4, S5, 
