@@ -19,6 +19,9 @@ the valuation of the necessity that p is true in world w1 is true is defined as 
 
 if and only if for all worlds w2 (&#8704; w2)
 
+such that w2 is accessible to w1, then the valuation of p in w2 is true (R(w1,w2)>(V(p,w2)=t))
+
+
 # References
 
 
