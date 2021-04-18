@@ -11,6 +11,10 @@
 
 **Thesis:** If Governance Model using Possible World Semantics can be tokenised this would produce a set of possible Governance Models with a variety of accessibility relations. This means that some Governance Models would be incompatible with others because they lacked a common necessity. This is a feature (not a bug) because it represents the variety of human Governance.
 
+### Game Theory and Modal Logic
+
+Nash equilibrium games can be modelled using modal logic. But I am thinking of sets of possible worlds which may or may not be accessible to each other. Rather than a worlds that are always balanced between all possibilities in equilibria.
+
 ### Simple Overview
 
 > R (w1, w2)
@@ -27,9 +31,7 @@ if and only if for all worlds w2 (&#8704; w2)
 
 such that w2 is accessible to w1, then the valuation of p in w2 is true (R(w1,w2)>(V(p,w2)=t))
 
-
 # References
-
 
 ## Governance : Introduction to logic models
 
