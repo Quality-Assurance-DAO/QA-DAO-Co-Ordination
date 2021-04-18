@@ -16,3 +16,14 @@
 For all propositions p (&#8704; p) and all worlds w1 ( &#8704; w1) 
 
 the valuation of the necessity that p is true in world w1 is true is defined as ((V(&#9633; p, w1)=t) &#8801;
+
+
+
+
+# References
+
+## On a Graph Approach to Modal Logics - 2014 
+Paulo A. S. Velosoa,Sheila R. M. Velosob, Mario R. F. Benevidesa
+https://core.ac.uk/download/pdf/82455981.pdf
+
+Abstract  : We introduce a sound and complete graph calculus for multi-modal logics.  This formalism internalizesthe (Kripke) semantics of modal logics and provides uniform tools for expressing and manipulating modalformulas. We present the graph calculus for logic K and show how to extend it to handle some modalities,like the global and difference modalities, in a natural manner. We also indicate how it can be easily extendedto other normal modal logics, such as T, S4, S5, 
