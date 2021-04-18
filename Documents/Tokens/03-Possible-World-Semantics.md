@@ -13,6 +13,8 @@
 
 ### Simple Overview
 
+> p (&#8704; p) ( &#8704; w1) ((V(&#9633; p, w1)=t) &#8801; (&#8704; w2) (R(w1,w2)>(V(p,w2)=t))
+
 For all propositions p (&#8704; p) and all worlds w1 ( &#8704; w1) 
 
 the valuation of the necessity that p is true in world w1 is true is defined as ((V(&#9633; p, w1)=t) &#8801;
