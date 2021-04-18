@@ -60,7 +60,7 @@ A complex set of contracts that depends upon a voting system (**Voted**) designe
 
 ## Tools
 
-### InterWorkAlliance: TokenTaxonomyFramework 
+### InterWorkAlliance: Token Taxonomy Framework 
 
 The Keep-It-Simple design needs to reference the InterWorkAlliance's [TokenTaxonomyFramework](https://github.com/InterWorkAlliance/TokenTaxonomyFramework).In particular it's **Token Template, Token Class and Token Instance** terminology. 
 
