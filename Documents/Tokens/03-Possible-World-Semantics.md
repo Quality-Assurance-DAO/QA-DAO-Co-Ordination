@@ -23,6 +23,15 @@ the valuation of the necessity that p is true in world w1 is true is defined as 
 # References
 
 
+## Governance : Introduction to logic models
+
+https://www.gov.uk/government/publications/evaluation-in-health-and-well-being-overview/introduction-to-logic-models
+
+## Governance : Theory of change model promoted by the Aspen Institute
+
+https://www.aspeninstitute.org/wp-content/uploads/files/content/docs/rcc/rcccommbuildersapproach.pdf
+
+
 ## Connectivity and finiteness in modal graph logic - 2019
 David Eppstein
 
