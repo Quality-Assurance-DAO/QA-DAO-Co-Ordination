@@ -13,4 +13,4 @@
 
 ### Process
 
-For all propositions p (&#8704; p) and all worlds 1 ( &#8704; w1)
+For all propositions p (&#8704; p) and all worlds w1 ( &#8704; w1)
