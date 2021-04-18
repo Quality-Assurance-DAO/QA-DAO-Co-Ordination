@@ -22,6 +22,12 @@ the valuation of the necessity that p is true in world w1 is true is defined as 
 
 # References
 
+
+## Connectivity and finiteness in modal graph logic - Jul 13, 2019
+David Eppstein
+https://11011110.github.io/blog/2019/07/13/connectivity-finiteness-modal.html
+
+
 ## On a Graph Approach to Modal Logics - 2014 
 Paulo A. S. Velosoa,Sheila R. M. Velosob, Mario R. F. Benevidesa
 https://core.ac.uk/download/pdf/82455981.pdf
