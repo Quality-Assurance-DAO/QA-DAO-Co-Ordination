@@ -3,7 +3,7 @@
 
 ## 03-Possible-World-Semantics Governance Token
 
-### Could a Possible World Semantics be a viable alternative to game theory equilibria?
+### Can Possible World Semantics be a viable alternative to game theory equilibria in Governance Token design ?
 
 **Thesis:** Define a Governance Model using Possible World Semantics in terms of what is necessary (what must happen) and possible (what can happen). Infer how different Governance Models may interact with each other via their possible world accessibility relations.
 
