@@ -13,6 +13,8 @@
 
 ### Simple Overview
 
+> R (w1, w2)
+
 If two possible worlds are related them a propostion that is necessary in one world (w1) is true in the other world (w2).
 
 > p (&#8704; p) ( &#8704; w1) ((V(&#9633; p, w1)=t) &#8801; (&#8704; w2) (R(w1,w2)>(V(p,w2)=t))
