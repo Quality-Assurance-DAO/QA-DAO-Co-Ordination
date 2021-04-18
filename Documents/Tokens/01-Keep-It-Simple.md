@@ -52,6 +52,21 @@ A complex set of contracts that depends upon a voting system (**Voted**) designe
 
 **Example** : No LIVE examples.
 
+# Refinements
+
+## Issues
+
+1. The term "Fungible" as attributed to the simple Audited Token creates the impression that an NFT can only be Fungible. In actual case a simple Audited Token is non-fungible when in it's minted state. Thought needs to be given to rephrase this section.
+
+## Tools
+
+### InterWorkAlliance: TokenTaxonomyFramework 
+
+The Keep-It-Simple design needs to reference the InterWorkAlliance's [TokenTaxonomyFramework](https://github.com/InterWorkAlliance/TokenTaxonomyFramework).
+
+### Token Engineering Canvas & Agent Behaviour Map 
+
+The Keep-It-Simple design needs to reference the [Token Engineering Canvas & Agent Behaviour Map](https://medium.com/@nembal/token-engineering-canvas-agent-behaviour-map-basics-for-token-engineering-59a413001222).
 
 
 
