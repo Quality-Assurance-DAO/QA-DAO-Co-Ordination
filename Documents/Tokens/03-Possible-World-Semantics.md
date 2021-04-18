@@ -13,4 +13,4 @@
 
 ### Simple Overview
 
-For all propositions p (&#8704; p) and all worlds w1 ( &#8704; w1) the valuation of the necessity that p is true in world w1 is true ((V(&#9633; p, w1)=t) &#8801;
+For all propositions p (&#8704; p) and all worlds w1 ( &#8704; w1) the valuation of the necessity that p is true in world w1 is true is defined as ((V(&#9633; p, w1)=t) &#8801;
