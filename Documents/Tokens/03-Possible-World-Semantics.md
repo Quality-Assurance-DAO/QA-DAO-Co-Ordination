@@ -11,6 +11,6 @@
 
 **Thesis:** If Governance Model using Possible World Semantics can be tokenised this would produce a set of possible Governance Models with a variety of accessibility relations. This means that some Governance Models would be incompatible with others because they lacked a common necessity. This is a feature (not a bug) because it represents the variety of human Governance.
 
-### Process
+### Simple Process
 
 For all propositions p (&#8704; p) and all worlds w1 ( &#8704; w1)
