@@ -1,7 +1,7 @@
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Possible-World-Semantics Token</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/Quality-Assurance-DAO" property="cc:attributionName" rel="cc:attributionURL">Stephen Whitenstall</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Possible-World-Semantics Governance Token</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/Quality-Assurance-DAO" property="cc:attributionName" rel="cc:attributionURL">Stephen Whitenstall</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
-## 03-Possible-World-Semantics
+## 03-Possible-World-Semantics Governance Token
 
 ### Could a Possible World Semantics be a viable alternative to game theory equilibria?
 
