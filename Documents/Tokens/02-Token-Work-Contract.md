@@ -9,7 +9,11 @@ This contract is an not a legal document but an experimental test case of an **I
 
 ## Scope
 
-**QA-DAO** commits (no warranty) to contributions to the open-source projects of **NFT-DAO**, in return for the Fee of **1 NFT-DAO Token** (an **Audit Token**) that records **QA-DAO's** contribution with free text (an arbitrary data record) and an **NFT-DAO** graphic image. 
+**QA-DAO** commits (no warranty) to contributions to the open-source projects of **NFT-DAO**.
+
+## Fee
+
+**1 NFT-DAO Token** (an **Audit Token**) that records **QA-DAO's** contribution with free text (an arbitrary data record) and an **NFT-DAO** graphic image. 
 
 ## Wallet
 
