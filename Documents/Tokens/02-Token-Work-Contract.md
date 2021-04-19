@@ -1,15 +1,35 @@
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Token-Work-Contract</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/Quality-Assurance-DAO" property="cc:attributionName" rel="cc:attributionURL">Stephen Whitenstall</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
-## Token-Work-Contract.
+## Token-Work-Agreement.
 
 Between **NFT-DAO** and **QA-DAO**
 
 This contract is an not a legal document but an experimental test case of an **Inter-DAO agreement**.
 
-## Scope
+## Scope 
 
-**QA-DAO** commits (no warranty) to contributions to the open-source projects of **NFT-DAO**.
+**QA-DAO** commits (no warranty) to contributions to the open-source projects of **NFT-DAO**. The scope of any Agreement 
+
+## Token Template translation
+
+At the highest level a Token Template has a Template Formula and a Template Definition
+
+### Template Formula
+> - "a set of reusable taxonomy components that, when combined, is used to classify and describe how to work with a token."
+>
+The scope of this Agreement will cover it's "capabilities or restrictions". 
+
+#### Capabilities 
+
+for example
+
+#### Restrictions
+
+for example
+
+### Template Definition
+> - "is derived from a formula, filling in the details to define a token that can be used to deploy as a class (i.e. Cryptocurrency Token Definition)."
 
 ## Fee
 
