@@ -5,7 +5,7 @@
 
 Between **NFT-DAO** and **QA-DAO**
 
-This contract is an not a legal document but an experimental test case of an **Inter-DAO agreement**.
+This Agreement is an not a legal document but an experimental test case of an **Inter-DAO agreement**.
 
 ## Scope 
 
