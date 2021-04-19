@@ -15,6 +15,8 @@
 
 Nash equilibrium games can be modelled using modal logic. But I am thinking of sets of possible worlds which may or may not be accessible to each other. Rather than a worlds that are always balanced between all possibilities in equilibria.
 
+My idea is to create sets of Governance models that would run in parallel and would have a variety of accessibility relations depending upon what was necessary in each model.
+
 ### Simple Overview
 
 > R (w1, w2)
