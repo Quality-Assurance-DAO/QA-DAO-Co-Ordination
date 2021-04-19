@@ -33,7 +33,13 @@ for example
 
 ## Fee
 
-**1 NFT-DAO Token** (an **Audit Token**) that records **QA-DAO's** contribution with free text (an arbitrary data record) and an **NFT-DAO** graphic image. 
+### Token Class = Cardano NFT
+
+One *Instance* of a Token of the Class **NFT-DAO Token** (an **Audit Token**) that records **QA-DAO's** contribution (from a **Template Formula**) with free text (an arbitrary data record) and an **NFT-DAO** graphic image. 
+
+### Token Instance = 1 Cardano NFT
+
+One NFT-DAO is one Token Instance
 
 ## Wallet
 
