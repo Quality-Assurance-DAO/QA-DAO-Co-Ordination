@@ -9,16 +9,16 @@ This Agreement is an not a legal document but an experimental test case of an **
 
 ## Scope 
 
-**QA-DAO** commits (no warranty) to contributions to the open-source projects of **NFT-DAO**. The scope of any Agreement 
+**QA-DAO** commits (no warranty) to contributions to the open-source projects of **NFT-DAO**. 
 
 ## Token Template translation
 
-At the highest level a Token Template has a Template Formula and a Template Definition
+At the highest level a **Token Template** has a **Template Formula** and a **Template Definition**.
 
 ### Template Formula
-> - "a set of reusable taxonomy components that, when combined, is used to classify and describe how to work with a token."
->
-The scope of this Agreement will cover it's "capabilities or restrictions". 
+> definition : "a set of reusable taxonomy components that, when combined, is used to classify and describe how to work with a token."
+
+The scope of this Agreement translates to a token's "*capabilities or restrictions*". 
 
 #### Capabilities 
 
@@ -29,7 +29,7 @@ for example
 for example
 
 ### Template Definition
-> - "is derived from a formula, filling in the details to define a token that can be used to deploy as a class (i.e. Cryptocurrency Token Definition)."
+> definition : "is derived from a formula, filling in the details to define a token that can be used to deploy as a class (i.e. Cryptocurrency Token Definition)."
 
 ## Fee
 
