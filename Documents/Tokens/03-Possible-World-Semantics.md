@@ -9,7 +9,7 @@
 
 **Thesis:** If a Possible World Semantics can be represented as a Directed Acyclic Graph, then a Governance Model defined in terms of a Possible World Semantics can be tokenised.
 
-**Thesis:** If Governance Model using Possible World Semantics can be tokenised this would produce a set of possible Governance Models with a variety of accessibility relations. This means that some Governance Models would be incompatible with others because they lacked a common necessity. This is a feature (not a bug) because it represents the variety of human Governance.
+**Thesis:** If a Governance Model using Possible World Semantics can be tokenised this would produce a set of possible Governance Models with a variety of accessibility relations. This means that some Governance Models would be incompatible with others because they lacked a common necessity. This is a feature (not a bug) because it represents the variety of human Governance.
 
 ### Game Theory and Modal Logic
 
