@@ -48,6 +48,6 @@ This purpose of this proposal is to develop a single defined part of the communi
 
 This is detailed below. 
 
-All of the Catalyst problems, solution ideas and fund 5 proposals for the community website can be found here: 
+All of the Catalyst problems, solution ideas and fund 5 proposals for the community website can be found here: (Explain and justify why you are referring to this material)
 
 
