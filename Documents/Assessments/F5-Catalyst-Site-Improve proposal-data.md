@@ -47,7 +47,7 @@ This makes the funding process less effective because [ ...]
 
 **Rewrite** (break up) : 
 
-This purpose of this proposal is to develop a single defined part of the community website. (in my view you should start with a statement like this).
+This purpose of this proposal is to develop a single defined part of the community website. (in my view you should start with this statement).
 
 This is detailed below. 
 
