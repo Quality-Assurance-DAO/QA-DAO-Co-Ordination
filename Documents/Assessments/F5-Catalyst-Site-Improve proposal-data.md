@@ -33,7 +33,7 @@ This makes the funding process less effective because [ ...]
 
 2) For newcomers the whole process can be overwhelming with the amount that needs to be learnt as well as the increasing number proposals to read and understand.
 
-> **Rewrite (Affirm, break up) :** For newcomers the whole process is overwhelming because the amount that needs to be learnt upfront. Additionally an there are an increasing number of proposals to read and understand. This causes [these material problems]
+> **Rewrite (Affirm, break up) :** For newcomers the whole process is overwhelming because the amount that needs to be learnt upfront. Additionally there are an increasing number of proposals to read and understand. This causes [these material problems]
 
 
 3) The initial purpose of the Project Catalyst community website is to try and tackle some of these current problems within the Catalyst process for proposers, voters and community advisors. 
