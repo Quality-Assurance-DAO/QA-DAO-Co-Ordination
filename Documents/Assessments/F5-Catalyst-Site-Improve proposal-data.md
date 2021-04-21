@@ -28,7 +28,7 @@ Web and mobile developer of over 5 years
 
 > What are these problems ? Start with them. Then explain how they materially impact the funding process.
 
-**Rewrite (conciseness) :** At present the Project Catalyst process has these problems [ ... ] that impact proposers, voters and community advisors by [ ...]. 
+> **Rewrite (conciseness) :** At present the Project Catalyst process has these problems [ ... ] that impact proposers, voters and community advisors by [ ...]. 
 This makes the funding process less effective because [ ...] 
 
 2) For newcomers the whole process can be overwhelming with the amount that needs to be learnt as well as the increasing number proposals to read and understand.
