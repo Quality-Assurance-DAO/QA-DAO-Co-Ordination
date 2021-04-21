@@ -38,7 +38,7 @@ This makes the funding process less effective because [ ...]
 
 3) The initial purpose of the Project Catalyst community website is to try and tackle some of these current problems within the Catalyst process for proposers, voters and community advisors. 
 
-**Rewrite (Affirm, lose vagueness and doubt)** : The purpose of the Project Catalyst community website is to tackle these current problems within the Catalyst process for proposers, voters and community advisors. 
+> **Rewrite (Affirm, lose vagueness and doubt)** : The purpose of the Project Catalyst community website is to tackle these current problems within the Catalyst process for proposers, voters and community advisors. 
 
 4) The Project Catalyst community website aims to become the source for education, collaboration and any relevant information about the Project Catalyst funding process.
 
