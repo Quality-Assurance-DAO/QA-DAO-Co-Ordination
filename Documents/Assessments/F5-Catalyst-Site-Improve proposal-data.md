@@ -7,12 +7,15 @@ https://cardano.ideascale.com/a/dtd/Catalyst-Site-Improve-proposal-data/350686-4
 ### Problem statement :
 
 Proposals lack depth for team profiles, have poor categorisation & search. 
+
 Proposals cannot be easily viewed as single projects
 
 ## Describe your solution to the problem
 
 Expand & improve team profile information.
+
 Enable categorisation of projects.
+
 Create links between multiple proposals.
 
 ## Relevant experience
