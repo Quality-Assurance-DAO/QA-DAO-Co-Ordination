@@ -42,16 +42,16 @@ This makes the funding process less effective because [ ...]
 
 4) The Project Catalyst community website aims to become the source for education, collaboration and any relevant information about the Project Catalyst funding process.
 
-**Rewrite (Affirm, justify, condense)** : The Project Catalyst community website will become the source for education, collaboration and information about the Project Catalyst funding process because [ .... ].
+> **Rewrite (Affirm, justify, condense)** : The Project Catalyst community website will become the source for education, collaboration and information about the Project Catalyst funding process because [ .... ].
 
 5) This purpose of this proposal is to develop a single defined part of the community website detailed below. All of the Catalyst problems, solution ideas and fund 5 proposals for the community website can be found here: https://www.notion.so/cardanocommunity/Catalyst-Community-Site-2b0616bedeb94c13a135d565eb883412
 
-**Rewrite** (break up) : 
+> **Rewrite** (break up) : 
 
-This purpose of this proposal is to develop a single defined part of the community website. (in my view you should start with this statement).
+> This purpose of this proposal is to develop a single defined part of the community website. (in my view you should start with this statement).
 
-This is detailed below. 
+> This is detailed below. 
 
-All of the Catalyst problems, solution ideas and fund 5 proposals for the community website can be found here: (Explain and justify why you are referring to this material)
+> All of the Catalyst problems, solution ideas and fund 5 proposals for the community website can be found here: (Explain and justify why you are referring to this material)
 
 
