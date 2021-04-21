@@ -14,19 +14,19 @@ There are many types of contribution to NFT-DAO. There are **Audited Contributio
 1. **Tracked Contributions**. 
 1. **Voted contributions**. 
 
-These types of value : Audited, Tracked and Voted Contributions. Are recorded in a **Contributions ledger** in metadata, either on a side chain or in IPFS.
+These types of value : Audited, Tracked and Voted Contributions. Are recorded in a **Contributions schema** in metadata, either on a side chain or in IPFS.
 
 # One Token
 
-There is One Token. For example : **The NFT-DAO Token**. The NFT-DAO Token is convertible to **Fungible** (e.g. burnt), **Swaps**, (e.g. other tokens) and **Votes** (e.g., Governance Rights).
+There is One Token. For example : **The NFT-DAO Token**. The NFT-DAO Token is convertible to **Simple** (e.g. bought, held, sold), **Swaps**, (e.g. for other tokens) and **Votes** (e.g., Governance Rights).
 
-1. **Fungible** (e.g. burnt)
+1. **Simple** (e.g. bought, held, sold)
 2. **Swaps**, (e.g. other tokens)
 3. **Votes** (e.g., Governance Rights).
 
 # Plutus Smart Contract
 
-The 3 contribution states (Audited, Tracked, Voted) are recorded in a **Plutus Smart Contract**. Haskell logic matches JSON Metadata of each Contribution type to an NFT-DAO Token state (Fungible, Swaps, Votes). The NFT-DAO Token is minted in these contextual states.
+The 3 contribution states (Audited, Tracked, Voted) are recorded in a **Plutus Smart Contract**. Haskell logic matches JSON Metadata of each Contribution type to an NFT-DAO Token state (Simple, Swaps, Votes). The NFT-DAO Token is minted in these contextual states.
 
 # Roadmap / Priorities
 
@@ -34,15 +34,15 @@ The 3 contribution states (Audited, Tracked, Voted) are recorded in a **Plutus S
 
 The complexity of each Smart Contract rendition of contribution states increases from Audited, through Swaps, to Votes.
 
-### Simple : Audited / Fungible
+### Simple : Audited / Simple
 
-The simplest smart contract only depends upon data that is volunteered by the DAO (**Audited**) and results in the minting of a simple Token that is Fungible.
+The simplest smart contract only depends upon data that is volunteered by the DAO (**Audited**) and results in the minting of a simple Token that is bought, held or sold.
 
 **Example** : A simple Art Token (NFT) with arbitrary metadata attached that is only bought or sold.
 
 ### Intermediate : Tracked / Swaps
 
-An intermediate smart contract depends upon data that is tracked by the DAO (**Tracked**) and results in the minting of a Token that can be swapped for other tokens (as well as being fungible).
+An intermediate smart contract depends upon data that is tracked by the DAO (**Tracked**) and results in the minting of a Token that can be swapped for other tokens.
 
 **Example** : A Swaps Token (NFT) with metadata sourced from tracked data (e.g. JSON frameworks) that may be traded with other Swaps Tokens
 
@@ -56,7 +56,7 @@ A complex set of contracts that depends upon a voting system (**Voted**) designe
 
 ## Issues
 
-1. The term "Fungible" as attributed to the simple Audited Token creates the impression that an NFT can only be Fungible. In actual case a simple Audited Token is non-fungible when in it's minted state. Thought needs to be given to rephrase this section.
+1. The term "Fungible" as attributed to the simple Audited Token creates the impression that an NFT can only be Fungible. In actual case a simple Audited Token is non-fungible when in it's minted state. Thought needs to be given to rephrase this section. **Changed to "Simple".**
 
 ## Tools
 
