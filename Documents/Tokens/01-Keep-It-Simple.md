@@ -54,10 +54,6 @@ A complex set of contracts that depends upon a voting system (**Voted**) designe
 
 # Refinements
 
-## Issues
-
-1. The term "Fungible" as attributed to the simple Audited Token creates the impression that an NFT can only be Fungible. In actual case a simple Audited Token is non-fungible when in it's minted state. Thought needs to be given to rephrase this section. **Changed to "Simple".**
-
 ## Tools
 
 ### InterWorkAlliance: Token Taxonomy Framework 
