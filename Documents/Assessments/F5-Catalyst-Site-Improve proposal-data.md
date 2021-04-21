@@ -1,5 +1,7 @@
 ## Catalyst Site:Improve proposal data
 
+https://cardano.ideascale.com/a/dtd/Catalyst-Site-Improve-proposal-data/350686-48088
+
 ### Rewrite Suggestions for George
 
 ### Problem statement :
