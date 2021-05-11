@@ -11,3 +11,7 @@ The purpose of this study is to:
 4 – Build an open-source Token Launch Risk Model.
 
 
+The [Project Board for this study](https://github.com/Quality-Assurance-DAO/DAO-Open-Source/projects/3).
+
+OccamFi tagged Issues are listed [here](https://github.com/Quality-Assurance-DAO/DAO-Open-Source/issues?q=is%3Aissue+is%3Aopen+label%3AOccamFi-Study).
+
