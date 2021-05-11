@@ -15,3 +15,4 @@ The [Project Board for this study](https://github.com/Quality-Assurance-DAO/DAO-
 
 OccamFi tagged Issues are listed [here](https://github.com/Quality-Assurance-DAO/DAO-Open-Source/issues?q=is%3Aissue+is%3Aopen+label%3AOccamFi-Study).
 
+OccamFi tagged Pull Requests are listed [here](https://github.com/Quality-Assurance-DAO/DAO-Open-Source/pulls?q=is%3Apr+is%3Aclosed+label%3AOccamFi-Study).
