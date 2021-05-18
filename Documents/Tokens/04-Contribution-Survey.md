@@ -3,11 +3,16 @@
 
 ## 04-DAO-Contribution-Survey
 
-The key approach is to capture contributions first and assess value last.
+**The key approach is to capture contributions first and assess value last.**
+
+Why ? Because value led models typically dictate the nature of contributions e.g. a financial incentive contribution model will ten to favor immediate returns, an equal share of rewards upfront will penalize those who have contributed more than others etc.
+
+A contribution led model either tracks or audits DAO member contributions first. Then rewards (in ADA) or recognition (in a Token) are applied to the contribution data.
 
 ## Identity
 
-This survey encourgages DAO members to identify themselves as it provides a record of their contribution.
+**This survey encourgages DAO members to identify themselves as it provides a record of their contribution.**
+
 However a anon ID option should be available and peer reviewed per work area.
 
 ## General Information
