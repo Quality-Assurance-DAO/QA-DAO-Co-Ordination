@@ -69,9 +69,9 @@ However a anon ID option should be available and peer reviewed per work area.
 
 # Reward and evaluation
 
-[ ] ADA per day / hour = Total
+- [ ] ADA per day / hour = Total
 
-[ ] A recognition Token that simply records the above contribution.
+- [ ] A recognition Token that simply records the above contribution.
 
 Keeping it simple at this stage allow for the p0ssibiliyrt tat a recognition token may become transferable later on.
 
