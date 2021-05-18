@@ -3,4 +3,34 @@
 
 ## 04-DAO-Contribution-Survey
 
-The key approach is to capture contributions first and value last.
+The key approach is to capture contributions first and assess value last.
+
+- [ ] Date joined DAO
+- [ ] Days /Hours worked
+
+## Work areas -
+
+## Development 
+
+- [ ] Code
+- [ ] UX
+- [ ] Test
+- [ ] Support
+
+## Marketing 
+
+-  [ ] Campaign
+-  [ ] Research
+
+## Governance
+
+-  [ ] Campaign
+-  [ ] Research
+
+
+## Business
+
+## Creative - Art
+
+
+
