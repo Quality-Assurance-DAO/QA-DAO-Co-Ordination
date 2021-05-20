@@ -1,6 +1,6 @@
-Welcome to DAO-Open-Source GitHub Training
+# Welcome to DAO-Open-Source GitHub Training
 
-Overview
+## Overview
 
 Here we aim to :
 
@@ -14,7 +14,7 @@ These materials will iteratively develop in the course of training Gov-HOLON mem
  What works will be kept and refined further.
  What does not work will be recorded as a lesson learnt.
 
-Sandbox
+## Sandbox
 
 A GitHub Sandbox Organisation is available at https://github.com/Ek-phrasis/.
 
@@ -32,9 +32,9 @@ The current subjects are -
 
 02-Markdown
 
- 03-GitHub-Discussions
+03-GitHub-Discussions
 
-The future
+## The future
 
 We will progress together onto the core features of GitHub - looking at Projects, Milestones, Issues, Pull Requests etc.
 
