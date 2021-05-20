@@ -27,7 +27,7 @@ This could be supplemented with a contribution vote by peers to capture the more
 
 ## Work areas
 
-A member can indicate the different work areas or HOLONs they have worked in and provide an estimate of Days / Hours worked in each area.
+A member can indicate the different work areas they have worked in and provide an estimate of Days / Hours worked in each area.
 The areas are Development , Marketing, Governance, Business, Creative, Product and Intangible work.
 Intangible work is meant to capture contributions not covered by the scope of a work area.
 
