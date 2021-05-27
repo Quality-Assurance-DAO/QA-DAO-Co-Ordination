@@ -1,7 +1,7 @@
 ---
 name: DAO-Contribution-Survey
 about: DAO-Contribution-Survey
-title: "[Contribution-Survey]"
+title: 2021-Month-Day-Name-Contribution-Survey
 labels: Contribution
 assignees: ''
 
