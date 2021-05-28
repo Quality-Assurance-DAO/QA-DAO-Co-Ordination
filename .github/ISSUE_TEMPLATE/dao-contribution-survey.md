@@ -7,30 +7,16 @@ assignees: ''
 
 ---
 
-## General Information
+# General Information
 
 This provides an overall summary or context of a member, when they became involved and how many days they have worked.
 This could be supplemented with a contribution vote by peers to capture the more intangible contribution a member has made. 
 
-- [ ] Date joined DAO
-- [ ] Days / Hours worked overall
-- [ ] Cost of contribution (from member perspective)
-- [ ] Contribution vote
+- [ ] Date joined DAO - Day/Month/Year
+- [ ] Days / Hours worked overall - Hours / month
+- [ ] Cost of contribution (from member perspective) -  € / h
 
-## Work areas
-
-A member can indicate the different work areas they have worked in and provide an estimate of Days / Hours worked in each area.
-The areas are Development , Marketing, Governance, Business, Creative, Product and Intangible work.
-Intangible work is meant to capture contributions not covered by the scope of a work area.
-
-## Cost calculations (to be decided)
-
-- [ ] Contribution vote
-
-## Work areas -
-
-Hours/Days worked - Costs
-A variable rate may be applied depending up the cost/rate of the contributor (their hourly rate and work costs).
+# Work areas -
 
 ## Development 
 
