@@ -4,6 +4,22 @@
 
 As Cardano moves towards the introduction of smart contracts and it's blockchain matures from the transaction of a cryptocurrency to a platform for social innovation - questions around how data represents and measures us come to the fore.
 
+## 1 - Winners and Losers
+
+"Such thinking should begin with the recognition that these grievances are not only economic but also moral and cultural; they are not only about wages and jobs but also about social esteem."
+
+Sandel, Michael J.. The Tyranny of Merit (p. 18). Penguin Books Ltd. Kindle Edition. 
+
+"The technocratic conception of politics is bound up with a faith in markets—not necessarily unfettered, laissez-faire capitalism, but the broader belief that market mechanisms are the primary instruments for achieving the public good. This way of thinking about politics is technocratic in the sense that it drains public discourse of substantive moral argument and treats ideologically contestable questions as if they were matters of economic efficiency, the province of experts."
+
+Sandel, Michael J.. The Tyranny of Merit (pp. 19-20). Penguin Books Ltd. Kindle Edition. 
+
+
+## 5 - Success Ethics
+
+In a meritocracy the unsuccessful become responsible for their failure. And the successful are given a free pass.
+
+
 ## Michael Sandal's "The Tyranny of Merit" (2020)
 
 - Sandal has also presented a TED talk on his book (https://www.ted.com/talks/michael_sandel_the_tyranny_of_merit).
