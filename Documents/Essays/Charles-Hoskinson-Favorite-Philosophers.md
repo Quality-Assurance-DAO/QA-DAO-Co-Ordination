@@ -14,13 +14,13 @@ Charles says that "you can't really talk about Russell and Saul without mentioni
 “And **Tarski**” ([Wikipedia]( https://en.wikipedia.org/wiki/Alfred_Tarski), [SEP]( https://plato.stanford.edu/entries/tarski/)). Together these philosophers increased the level of precision we have in formal languages and language in general. 
 
 ## Wittgenstein
-“Wittgenstein makes no sense at all to me.” – Charles.
+“*Wittgenstein makes no sense at all to me.*” – Charles.
 
-My commentary – Wittgenstein in effect founded logical atomism with his Tractatus Logico-Philosophicus (1921) – the intent of which is stated at the beginning as “The world is the totality of facts, not of things.” Which is referred to as the “Picture Theory of Language”. Later Wittgenstein revised his views (dubbing the Tractus “dogmatic”) and went on to write his “Philosophical Investigations” (1951) which introduced the concepts “Meaning as use”, “Language-games”, “Family Resemblance”, “Rule-following”, “Private Language” and “Forms of Life” into analytic philosophy.
+My commentary – Wittgenstein in effect founded **logical atomism** with his **Tractatus Logico-Philosophicus (1921)** – the intent of which is stated at the beginning as “*The world is the totality of facts, not of things.*” Which is referred to as the “*Picture Theory of Language*”. Later Wittgenstein revised his views (dubbing the Tractus “*dogmatic*”) and went on to write his **Philosophical Investigations” (1951)** which introduced the concepts “*Meaning as use*”, “*Language-games*”, “*Family Resemblance*”, “*Rule-following*”, “*Private Language*” and “*Forms of Life*” into analytic philosophy.
 
-“Kripke has Kripkenstein” – Charles.
+“*Kripke has Kripkenstein*” – Charles.
 
-My commentary – Charles is referring here to Saul Kripke’s “Wittgenstein on Rules and Private Language” (1982). ([Wikipedia]( https://en.wikipedia.org/wiki/Wittgenstein_on_Rules_and_Private_Language)) which, at its core, concerns the “rule-following paradox”. This paradox is a sceptical proposition which undermines the possibility of following rules in language: “no course of action could be determined by a rule, because any course of action can be made out to accord with the rule.” (Philosophical Investigations §201a). 
+My commentary – Charles is referring here to Saul Kripke’s **Wittgenstein on Rules and Private Language (1982)**. ([Wikipedia]( https://en.wikipedia.org/wiki/Wittgenstein_on_Rules_and_Private_Language)) which, at its core, concerns the “*rule-following paradox*”. This paradox is a sceptical proposition concerning the possibility of following rules in language: “*.. no course of action could be determined by a rule, because any course of action can be made out to accord with the rule.*” (Philosophical Investigations §201a). 
 
 ## What is the difference between philosophy and computer science?
 
