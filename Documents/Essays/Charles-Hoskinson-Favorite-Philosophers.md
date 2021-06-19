@@ -17,7 +17,7 @@ Charles says that "you can't really talk about Russell and Saul without mentioni
 
 **My commentary** – Wittgenstein in effect founded **logical atomism** with his **Tractatus Logico-Philosophicus** (1921) – the intent of which is stated at the beginning as “*The world is the totality of facts, not of things.*” Which is referred to as the “*Picture Theory of Language*”. Later Wittgenstein revised his views (dubbing the Tractus “*dogmatic*”) and went on to write his “**Philosophical Investigations**” (1951) which introduced the concepts “*Meaning as use*”, “*Language-games*”, “*Family Resemblance*”, “*Rule-following*”, “*Private Language*” and “*Forms of Life*” into analytic philosophy.
 
-“Kripke has Kripkenstein” – Charles.
+“*Kripke has Kripkenstein*” – Charles.
 
 **My commentary** – Charles is referring here to Saul Kripke’s “*Wittgenstein on Rules and Private Language*” (1982). ([Wikipedia]( https://en.wikipedia.org/wiki/Wittgenstein_on_Rules_and_Private_Language))
 
