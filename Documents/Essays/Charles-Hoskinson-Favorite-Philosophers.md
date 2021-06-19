@@ -9,6 +9,8 @@ In this forum post I would like to cover the topic ["Favorite Philosophers"](htt
 
 Lex starts by quoting Charles as mentioning **Betrand Russell**  ([Wikipedia](https://en.wikipedia.org/wiki/Bertrand_Russell), [Stanford Encyclopaedia of Philosophy - SEP](https://plato.stanford.edu/entries/russell/)) and **Saul Kripke** ([Wikipedia](https://en.wikipedia.org/wiki/Saul_Kripke),[The Information Philosopher](https://www.informationphilosopher.com/solutions/philosophers/kripke/)) as "two of your favourite philosophers" and asks Charles to comment on what ideas of theirs he finds insightful.
 
-Charles says that "you can't really talk about Russell and Saul without mentioning Wittgenstein" ([Wikipedia](https://en.wikipedia.org/wiki/Ludwig_Wittgenstein), [SEP](https://plato.stanford.edu/entries/wittgenstein/), [The Information Philosopher](https://www.informationphilosopher.com/solutions/philosophers/wittgenstein/))
+Charles says that "you can't really talk about Russell and Saul without mentioning **[Ludwig] Wittgenstein**" ([Wikipedia](https://en.wikipedia.org/wiki/Ludwig_Wittgenstein), [SEP](https://plato.stanford.edu/entries/wittgenstein/), [The Information Philosopher](https://www.informationphilosopher.com/solutions/philosophers/wittgenstein/))
+“And **[Alfred] Tarski**” ([Wikipedia]( https://en.wikipedia.org/wiki/Alfred_Tarski), [SEP]( https://plato.stanford.edu/entries/tarski/))
+
 
 ## What is the difference between philosophy and computer science ?
