@@ -22,6 +22,24 @@ My commentary – Wittgenstein in effect founded **logical atomism** with his **
 
 My commentary – Charles is referring here to Saul Kripke’s **Wittgenstein on Rules and Private Language (1982)**. ([Wikipedia]( https://en.wikipedia.org/wiki/Wittgenstein_on_Rules_and_Private_Language)) which, at its core, concerns the “*rule-following paradox*”. This paradox is a sceptical proposition concerning the possibility of following rules in language: “*.. no course of action could be determined by a rule, because any course of action can be made out to accord with the rule.*” (Philosophical Investigations §201a). 
 
+## Modal logic
+“*At least there I have modal logic …the little boxes and I have the diamonds. I can do a computation … and I can reason about what people are saying. Really it was all about precision and the nature of truth, precision and the nature of possibility ...*” – Charles
+
+Charles refers here to two of the fundamental symbols of modal logic (https://iep.utm.edu/modal-lo/), *necessity* “the little box” and *possibility* “the diamonds”.
+
+“*How far a formal language can take you ...*” – Charles
+
+## David Hilbert
+
+“*David Hilbert also did the same thing …*” – Charles
+
+Charles refers here to “Hilbert’s Program” (https://plato.stanford.edu/entries/hilbert-program/)
+
+## Alfred North Whitehead
+
+“*Russell got his career started with working with Alfred North Whitehead, a logician. There was this whole desire in late 19th century mathematics.*"
+
+
 ## What is the difference between philosophy and computer science?
 
 
