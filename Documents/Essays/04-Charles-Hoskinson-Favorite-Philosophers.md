@@ -25,7 +25,7 @@ Charles says that "you can't really talk about Russell and Saul without mentioni
 ## Modal logic
 “*At least there I have modal logic …the little boxes and I have the diamonds. I can do a computation … and I can reason about what people are saying. Really it was all about precision and the nature of truth, precision and the nature of possibility ...*” – Charles
 
-Charles refers here to two of the fundamental symbols of modal logic (https://iep.utm.edu/modal-lo/), *necessity* “the little box” and *possibility* “the diamonds”.
+**My commentary** – Charles refers here to two of the fundamental symbols of modal logic (https://iep.utm.edu/modal-lo/), *necessity* “the little box” and *possibility* “the diamonds”.
 
 “*How far a formal language can take you ...*” – Charles
 
@@ -33,7 +33,7 @@ Charles refers here to two of the fundamental symbols of modal logic (https://ie
 
 “*David Hilbert also did the same thing …*” – Charles
 
-Charles refers here to “Hilbert’s Program” (https://plato.stanford.edu/entries/hilbert-program/)
+**My commentary** – Charles refers here to “Hilbert’s Program” (https://plato.stanford.edu/entries/hilbert-program/)
 
 ## Alfred North Whitehead
 
