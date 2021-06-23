@@ -4,7 +4,7 @@
 ## Lex Fridman Podcast #192
 
 An extensive interview with Charles Hoskinson by Lex Fridman aired last week. The podcast covers many subjects and lasts over 4 hours. Different topics of conversation are timestamped on Lex Fridman's YouTube channel and well worth a listen.
-In this forum post I would like to summarise the topic ["Favorite Philosophers"](https://youtu.be/FKh8hjJNhWc?t=434), provide some discussion and references for further reading.
+In this forum post I would like to summarise the topic ["Favorite Philosophers"](https://youtu.be/FKh8hjJNhWc?t=434), provide some commentary and references for further reading.
 
 ## Favorite Philosophers
 
