@@ -33,7 +33,7 @@ Charles says that "you can't really talk about Russell and Saul without mentioni
 
 “*David Hilbert also did the same thing …*” – Charles
 
-**My commentary** – Charles refers here to “Hilbert’s Program” (https://plato.stanford.edu/entries/hilbert-program/)
+**My commentary** – Charles refers here to “Hilbert’s Program” (https://plato.stanford.edu/entries/hilbert-program/) that is, the formalization of all of mathematics in axiomatic form.
 
 ## Alfred North Whitehead
 
