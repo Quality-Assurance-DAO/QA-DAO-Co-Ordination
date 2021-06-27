@@ -16,16 +16,16 @@ Charles says that "you can't really talk about Russell and Saul without mentioni
 ## Wittgenstein
 “*Wittgenstein makes no sense at all to me.*” – Charles.
 
-My commentary – Wittgenstein in effect founded **logical atomism** with his **Tractatus Logico-Philosophicus (1921)** – the intent of which is stated at the beginning as “*The world is the totality of facts, not of things.*” Which is referred to as the “*Picture Theory of Language*”. Later Wittgenstein revised his views (dubbing the Tractus “*dogmatic*”) and went on to write his **Philosophical Investigations” (1951)** which introduced the concepts “*Meaning as use*”, “*Language-games*”, “*Family Resemblance*”, “*Rule-following*”, “*Private Language*” and “*Forms of Life*” into analytic philosophy.
+**My commentary** – Wittgenstein in effect founded **logical atomism** with his **Tractatus Logico-Philosophicus (1921)** – the intent of which is stated at the beginning as “*The world is the totality of facts, not of things.*” Which is referred to as the “*Picture Theory of Language*”. Later Wittgenstein revised his views (dubbing the Tractus “*dogmatic*”) and went on to write his **Philosophical Investigations” (1951)** which introduced the concepts “*Meaning as use*”, “*Language-games*”, “*Family Resemblance*”, “*Rule-following*”, “*Private Language*” and “*Forms of Life*” into analytic philosophy.
 
 “*Kripke has Kripkenstein*” – Charles.
 
-My commentary – Charles is referring here to Saul Kripke’s **Wittgenstein on Rules and Private Language (1982)**. ([Wikipedia]( https://en.wikipedia.org/wiki/Wittgenstein_on_Rules_and_Private_Language)) which, at its core, concerns the “*rule-following paradox*”. This paradox is a sceptical proposition concerning the possibility of following rules in language: “*.. no course of action could be determined by a rule, because any course of action can be made out to accord with the rule.*” (Philosophical Investigations §201a). 
+**My commentary** – Charles is referring here to Saul Kripke’s **Wittgenstein on Rules and Private Language (1982)**. ([Wikipedia]( https://en.wikipedia.org/wiki/Wittgenstein_on_Rules_and_Private_Language)) which, at its core, concerns the “*rule-following paradox*”. This paradox is a sceptical proposition concerning the possibility of following rules in language: “*.. no course of action could be determined by a rule, because any course of action can be made out to accord with the rule.*” (Philosophical Investigations §201a). 
 
 ## Modal logic
 “*At least there I have modal logic …the little boxes and I have the diamonds. I can do a computation … and I can reason about what people are saying. Really it was all about precision and the nature of truth, precision and the nature of possibility ...*” – Charles
 
-Charles refers here to two of the fundamental symbols of modal logic (https://iep.utm.edu/modal-lo/), *necessity* “the little box” and *possibility* “the diamonds”.
+**My commentary** – Charles refers here to two of the fundamental symbols of modal logic (https://iep.utm.edu/modal-lo/), *necessity* “the little box” and *possibility* “the diamonds”.
 
 “*How far a formal language can take you ...*” – Charles
 
@@ -33,7 +33,7 @@ Charles refers here to two of the fundamental symbols of modal logic (https://ie
 
 “*David Hilbert also did the same thing …*” – Charles
 
-Charles refers here to “Hilbert’s Program” (https://plato.stanford.edu/entries/hilbert-program/)
+**My commentary** – Charles refers here to “Hilbert’s Program” (https://plato.stanford.edu/entries/hilbert-program/) that is, the formalization of all of mathematics in axiomatic form.
 
 ## Alfred North Whitehead
 
