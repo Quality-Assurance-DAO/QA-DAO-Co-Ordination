@@ -8,7 +8,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        PLease enter the details of your Agenda Item above.
+        PLease enter the title of your Agenda Item above.
   - type: input
     id: contact
     attributes:
@@ -21,9 +21,9 @@ body:
     id: Agenda-Item-Detail
     attributes:
       label: Details of your Agenda Item
-      description: PLease enter the details of your Agenda Item here.
-      placeholder: PLease enter the details of your Agenda Item here.
-      value: "## Agenda Item"
+      description: Please enter the details of your Agenda Item here.
+      placeholder: Please enter the details of your Agenda Item here.
+      value: "## Agenda Item | - [] test"
     validations:
       required: true
   - type: dropdown
