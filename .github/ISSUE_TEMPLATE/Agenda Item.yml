@@ -32,7 +32,7 @@ body:
       label: Raised-By1
       description: Raised-By1
       options:
-       - stephen-rowan
+       - "@stephen-rowan"
        - stephen-rowan1
     validations:
       required: true
