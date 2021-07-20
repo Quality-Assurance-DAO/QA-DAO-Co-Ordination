@@ -27,13 +27,13 @@ body:
     validations:
       required: true
   - type: dropdown
-    id: version
+    id: Raised-By
     attributes:
-      label: Version
-      description: What version of our software are you running?
+      label: Raised-By
+      description: Raised-By
       options:
-        - 1.0.2 (Default)
-        - 1.0.3 (Edge)
+        @stephen-rowan
+        @stephen-rowan
     validations:
       required: true
   - type: dropdown
