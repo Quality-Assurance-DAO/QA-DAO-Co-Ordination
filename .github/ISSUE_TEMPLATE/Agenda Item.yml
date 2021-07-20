@@ -33,7 +33,7 @@ body:
       description: Raised-By
       options:
        - stephen-rowan
-       - stephen-rowan
+       - stephen-rowan1
     validations:
       required: true
   - type: dropdown
