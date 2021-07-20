@@ -18,11 +18,11 @@ body:
     validations:
       required: false
   - type: textarea
-    id: what-happened
+    id: Agenda-Item-Detail
     attributes:
-      label: What happened?
-      description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
+      label: Details of your Agenda Item
+      description: PLease enter the details of your Agenda Item here.
+      placeholder: PLease enter the details of your Agenda Item here.
       value: "A bug happened!"
     validations:
       required: true
