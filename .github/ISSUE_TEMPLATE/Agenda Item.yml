@@ -8,13 +8,13 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
+        PLease enter the details of your Agenda Item here.
   - type: input
     id: contact
     attributes:
-      label: Contact Details
-      description: How can we get in touch with you if we need more info?
-      placeholder: ex. email@example.com
+      label: Raised By :
+      description: Who raised this Agenda Item ?
+      placeholder: ex. your GitHub name
     validations:
       required: false
   - type: textarea
