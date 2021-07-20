@@ -32,8 +32,8 @@ body:
       label: Raised-By
       description: Raised-By
       options:
-        @stephen-rowan
-        @stephen-rowan
+       - @stephen-rowan
+       - @stephen-rowan
     validations:
       required: true
   - type: dropdown
