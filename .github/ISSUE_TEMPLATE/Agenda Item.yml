@@ -23,7 +23,8 @@ body:
       label: Details of your Agenda Item
       description: Please enter the details of your Agenda Item here.
       placeholder: Please enter the details of your Agenda Item here.
-      value: "## Agenda Item | - [] test"
+      value: "## Agenda Item 
+      | - [] test"
     validations:
       required: true
   - type: dropdown
