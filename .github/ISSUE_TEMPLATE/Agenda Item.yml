@@ -8,7 +8,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        PLease enter the details of your Agenda Item here.
+        PLease enter the details of your Agenda Item above.
   - type: input
     id: contact
     attributes:
