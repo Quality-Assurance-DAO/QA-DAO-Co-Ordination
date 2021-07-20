@@ -23,7 +23,7 @@ body:
       label: Details of your Agenda Item
       description: PLease enter the details of your Agenda Item here.
       placeholder: PLease enter the details of your Agenda Item here.
-      value: "A bug happened!"
+      value: "## Agenda Item"
     validations:
       required: true
   - type: dropdown
