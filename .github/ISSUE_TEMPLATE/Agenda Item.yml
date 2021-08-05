@@ -33,7 +33,8 @@ body:
       description: Raised-By1
       options:
        - "@stephen-rowan"
-       - stephen-rowan1
+       - "@FelixfromSwarm"
+       - "Sapereaude7"
     validations:
       required: true
   - type: dropdown
