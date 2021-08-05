@@ -34,7 +34,7 @@ body:
       options:
        - "@stephen-rowan"
        - "@FelixfromSwarm"
-       - "Sapereaude7"
+       - "@Sapereaude7"
     validations:
       required: true
   - type: dropdown
