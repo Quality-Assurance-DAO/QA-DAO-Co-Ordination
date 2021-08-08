@@ -12,8 +12,8 @@ body:
       description: Bounty-Level
       options:
        - Urgent
-       - Medium
-       - Low
+       - Important
+       - Useful
     validations:
       required: true
   - type: dropdown
@@ -22,9 +22,9 @@ body:
       label: Complexity
       description: Complexity
       options:
-       - High
-       - Medium
-       - Low
+       - High Complexity
+       - Medium Complexity
+       - Low Complexity
     validations:
       required: true
   - type: dropdown
@@ -33,9 +33,9 @@ body:
       label: Bounty-Amount
       description: Bounty-Amount
       options:
-       - 5
-       - 10
-       - 50
+       - 5 ADA
+       - 10 ADA
+       - 50 ADA
     validations:
       required: true
   - type: dropdown
@@ -44,9 +44,9 @@ body:
       label: Bounty Bonus
       description: Bounty Bonus
       options:
-       - 5
-       - 10
-       - 50
+       - 5 ADA
+       - 10 ADA
+       - 50 ADA
     validations:
       required: true
   - type: dropdown
@@ -55,16 +55,16 @@ body:
       label: Increase increment
       description: Increase increment
       options:
-       - 5
-       - 10
-       - 30
+       - 5 ADA
+       - 10 ADA
+       - 30 ADA
     validations:
       required: true
   - type: textarea
     id: Bounty
     attributes:
       label: Bounty Description
-      description: Bounty Description
+      description: Please describe in detail the Bounty you are raising.
       render: text
   - type: checkboxes
     id: terms
