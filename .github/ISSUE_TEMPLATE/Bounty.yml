@@ -1,7 +1,7 @@
 name: Bounty
 description: Bounty Hunter Needed
 title: "Bounty Hunter Needed : "
-labels: [Bounty Hunter Needed]
+labels: ["Bounty Hunter Needed"]
 assignees:
  Raised-By
 body:
