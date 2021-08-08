@@ -25,16 +25,17 @@ body:
        - Low
     validations:
       required: true
-  - type: dropdown
-    id: browsers
+- type: dropdown
+    id: Complexity
     attributes:
-      label: What browsers are you seeing the problem on?
-      multiple: true
+      label: Complexity
+      description: Complexity
       options:
-        - "@stephen-rowan"
-        - "@FelixfromSwarm"
-        - Safari
-        - Microsoft Edge
+       - High
+       - Medium
+       - Low
+    validations:
+      required: true
   - type: textarea
     id: logs
     attributes:
