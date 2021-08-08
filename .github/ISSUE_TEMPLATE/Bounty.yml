@@ -49,6 +49,17 @@ body:
        - 50
     validations:
       required: true
+  - type: dropdown
+    id: Increase-increment
+    attributes:
+      label: Increase increment
+      description: Increase increment
+      options:
+       - 5
+       - 10
+       - 30
+    validations:
+      required: true
   - type: textarea
     id: Bounty
     attributes:
