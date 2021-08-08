@@ -5,16 +5,7 @@ labels: [Bounty Hunter Needed]
 assignees:
  Raised-By
 body:
-  - type: textarea
-    id: Agenda-Item-Detail
-    attributes:
-      label: Details of your Agenda Item
-      description: Please enter the details of your Agenda Item here.
-      placeholder: Please enter the details of your Agenda Item here.
-      value: "## Agenda Item"
-    validations:
-      required: true
-  - type: dropdown
+ - type: dropdown
     id: Bounty-Level
     attributes:
       label: Bounty-Level
