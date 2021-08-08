@@ -30,9 +30,9 @@ body:
   - type: textarea
     id: Bounty
     attributes:
-      label: Bounty
-      description: Bounty.
-      render: shell
+      label: Bounty Description
+      description: Bounty Description
+      render: text
   - type: checkboxes
     id: terms
     attributes:
