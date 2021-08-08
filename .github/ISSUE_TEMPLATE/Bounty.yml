@@ -27,7 +27,7 @@ body:
        - Low
     validations:
       required: true
-   - type: dropdown
+  - type: dropdown
     id: Bounty-Amount
     attributes:
       label: Bounty-Amount
