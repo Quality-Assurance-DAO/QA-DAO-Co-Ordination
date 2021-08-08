@@ -27,6 +27,17 @@ body:
        - Low
     validations:
       required: true
+   - type: dropdown
+    id: Bounty-Amount
+    attributes:
+      label: Bounty-Amount
+      description: Bounty-Amount
+      options:
+       - 5
+       - 10
+       - 50
+    validations:
+      required: true
   - type: textarea
     id: Bounty
     attributes:
