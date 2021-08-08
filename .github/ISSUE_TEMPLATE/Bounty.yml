@@ -5,7 +5,7 @@ labels: [Bounty Hunter Needed]
 assignees:
  Raised-By
 body:
- - type: dropdown
+  - type: dropdown
     id: Bounty-Level
     attributes:
       label: Bounty-Level
