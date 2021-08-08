@@ -38,6 +38,17 @@ body:
        - 50
     validations:
       required: true
+  - type: dropdown
+    id: Bounty Bonus
+    attributes:
+      label: Bounty Bonus
+      description: Bounty Bonus
+      options:
+       - 5
+       - 10
+       - 50
+    validations:
+      required: true
   - type: textarea
     id: Bounty
     attributes:
