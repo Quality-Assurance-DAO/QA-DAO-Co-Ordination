@@ -39,7 +39,7 @@ body:
     validations:
       required: true
   - type: dropdown
-    id: Bounty Bonus
+    id: Bounty-Bonus
     attributes:
       label: Bounty Bonus
       description: Bounty Bonus
