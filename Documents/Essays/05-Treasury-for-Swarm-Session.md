@@ -1,5 +1,7 @@
 ## Ideation of a Treasury for Swarm Session reward.
 
+Google doc : https://docs.google.com/document/d/1e_TjY5fc4E05e2uNYRjEzKh46nd94el6FauJUmwWRhA/edit
+
 ## Mooted at ETH - 9th October 2021
 
 - Felix, Stephen, Victor, Nori
