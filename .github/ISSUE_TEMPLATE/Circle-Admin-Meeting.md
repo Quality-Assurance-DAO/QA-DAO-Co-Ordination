@@ -2,7 +2,7 @@
 name: Circle-Admin-Meeting
 about: Circle-Admin-Meeting
 title: 2021-Month-Day-Circle-Admin-Meeting
-labels: Admin Meeting Admin
+labels: Admin Meeting Admin Epic
 assignees: 'stephen-rowan'
 
 ---
